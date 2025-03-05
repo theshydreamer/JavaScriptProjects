@@ -1,2 +1,1 @@
-30 Days, 30 Projects Challenge.
-JavaScript
+30 Days, 30 Projects Challenge using JavaScript
